@@ -33,9 +33,5 @@ public class GamerController {
         gamerList.add(new gamer(1,"John Lopez","jalopez","Gamer123",999999,"Amateur"));
         gamerList.add(new gamer(2,"Jane Smith","jasmith","Gamer456",888888,"Intermediate"));
         gamerList.add(new gamer(3,"Bob Johnson","bjohnson","Gamer789",777777,"Expert"));
-
     }
-
-
-
 }
